@@ -1,7 +1,7 @@
 # EBDS
 I'm a former student in the track "Econometrics, Big Data and Statistics" at Aix-Marseille School of Economics.
 
-I upload some of the practical work done in classes in this repository. 
+I upload some of the practical work done during lessons in this repository. 
 
 Most of them are group work that I always realised with the same two other students.
 
