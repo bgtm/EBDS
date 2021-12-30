@@ -14,3 +14,5 @@ Most of them are group work that I always realised with the same two other stude
 [Topic modeling analyse about tweets that mention the six biggest airline companies in the US](https://github.com/bgtm/EBDS/blob/main/tweets_topic_modeling.ipynb)
 
 [Quick exercise about support vector machine on randmoly generated data](https://github.com/bgtm/EBDS/blob/main/SVM.pdf)
+
+[Study about stock market performance of alternative energy companies and changes in oil prices, carried out on SAS with time serie data](https://github.com/bgtm/EBDS/blob/main/Stock market performance of alternative energy companies.pdf)
