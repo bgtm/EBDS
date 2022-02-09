@@ -19,4 +19,4 @@ Most of them are group work that I always realised with the same two other stude
 
 [Study about stock market performance of alternative energy companies and changes in oil prices, carried out on SAS with time serie data](https://github.com/bgtm/EBDS/blob/main/stock_market_performance.pdf)
 
-[Econometric analyse using panel data to estimate how large was the union wage premium in the United-States of America between 1983 and 1987](https://github.com/bgtm/EBDS/blob/main/how.pdf)
+[Econometric analyse using panel data to estimate how large was the union wage premium in the United-States of America between 1983 and 1987](https://github.com/bgtm/EBDS/blob/main/How%20large%20is%20the%20union%20wage%20premium.pdf)
