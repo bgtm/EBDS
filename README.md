@@ -18,3 +18,5 @@ Most of them are group work that I always realised with the same two other stude
 [Quick exercise about support vector machine on randmoly generated data](https://github.com/bgtm/EBDS/blob/main/SVM.pdf)
 
 [Study about stock market performance of alternative energy companies and changes in oil prices, carried out on SAS with time serie data](https://github.com/bgtm/EBDS/blob/main/stock_market_performance.pdf)
+
+[Econometric analyse using panel data to estimate how large was the union wage premium in the United-States of America between 1983 and 1987](https://github.com/bgtm/EBDS/blob/main/how.pdf)
